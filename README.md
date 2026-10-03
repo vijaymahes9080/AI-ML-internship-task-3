@@ -11,14 +11,17 @@
 
 <!-- Shields / Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white&color=2563eb" alt="MIT License" />
+  <a href="https://vijaymahes9080.github.io/AI-ML-internship-task-3/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Studio-Launch_App_Online-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/vijaymahes9080/AI-ML-internship-task-3/actions/workflows/deploy.yml">
+    <img src="https://img.shields.io/badge/Deployment-GitHub_Pages-success?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Pages Deployment" />
+  </a>
   <img src="https://img.shields.io/badge/Dataset%20Size-105%20Curated%20Images-emerald?style=for-the-badge&logo=databricks&logoColor=white&color=059669" alt="Dataset Size" />
   <img src="https://img.shields.io/badge/Classes-3%20Distinct%20Signs-amber?style=for-the-badge&logo=target&logoColor=white&color=d97706" alt="Classes" />
-  <img src="https://img.shields.io/badge/Framework-Keras%20%7C%20TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white&color=ea580c" alt="Framework" />
-  <img src="https://img.shields.io/badge/Interface-Interactive%20HTML5%20Studio-teal?style=for-the-badge&logo=html5&logoColor=white&color=0d9488" alt="Interface" />
 </p>
 
-[Explore Dataset](#-curated-dataset-gallery) • [Studio Web App](#-interactive-studio-suite) • [Installation & Usage](#-quick-start) • [Author & Contact](#-author)
+[🌐 **Live Studio App**](https://vijaymahes9080.github.io/AI-ML-internship-task-3/) • [Explore Dataset](#-curated-dataset-gallery) • [Studio Web App](#-interactive-studio-suite) • [Installation & Usage](#-quick-start) • [Author & Contact](#-author)
 
 ---
 
@@ -150,21 +153,24 @@ AI-ML-internship-task-3/
 
 ## ⚡ Quick Start
 
-### 1. Clone the Repository
+### 1. Access the Live Web App (No Installation Needed!)
+Instant interactive deployment on GitHub Pages:
+👉 **[Launch Traffic Sign Studio Online](https://vijaymahes9080.github.io/AI-ML-internship-task-3/)**
+
+### 2. Run Locally / Clone the Repository
 ```bash
 git clone https://github.com/vijaymahes9080/AI-ML-internship-task-3.git
 cd AI-ML-internship-task-3
 ```
 
-### 2. Launch the Studio Interface
-Open `vj_traffic_studio.html` directly in any web browser:
+Open `index.html` (or `vj_traffic_studio.html`) directly in any web browser:
 ```powershell
 # Windows PowerShell
-Start-Process .\vj_traffic_studio.html
+Start-Process .\index.html
 ```
-*(Or simply double-click `vj_traffic_studio.html`)*
+*(Or simply double-click `index.html`)*
 
-### 3. Load with Python (TensorFlow / PyTorch)
+### 3. Load Dataset with Python (TensorFlow / PyTorch)
 ```python
 import tensorflow as tf
 

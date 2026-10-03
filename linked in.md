@@ -40,6 +40,7 @@ In computer vision, model accuracy is only as good as dataset quality. To build 
 ---
 
 ### 🔗 Explore the Project:
+🌐 **Live Interactive Studio**: https://vijaymahes9080.github.io/AI-ML-internship-task-3/  
 📂 **GitHub Repository**: https://github.com/vijaymahes9080/AI-ML-internship-task-3  
 👨‍💻 **Developer**: Vijay Mahes ([Vijaypradhap2004@gmail.com](mailto:Vijaypradhap2004@gmail.com))
 
